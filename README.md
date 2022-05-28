@@ -5,5 +5,5 @@ Site simples de uma livraria online. Há apenas uma tela inicial com uma sessão
   - HTML
   - CSS
   
-## Visualização 🌟
+## Visualização🌟
 [<img src="./site-livraria.gif" alt="gif do site">]
